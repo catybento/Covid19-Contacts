@@ -71,4 +71,4 @@ Commands:
         FIM
 
 
-To run this commands, please press **enter** twice.
+To run these commands, please press **enter** twice.
